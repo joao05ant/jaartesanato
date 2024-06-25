@@ -51,8 +51,8 @@ export default function MeusTrabalhos() {
   return (
     <>
       <Head>
-        <title>Meus Trabalhos - J.A Artsanato</title>
-        <meta name="description" content="Conheça os trabalhos de J.A Artsanato" />
+        <title>Meus Trabalhos - J.A Artesanato</title>
+        <meta name="description" content="Conheça os trabalhos de J.A Artesanato" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
