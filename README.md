@@ -1,15 +1,16 @@
+## Primeiro projeto criando utilizando react e nextjs
 
-## Getting Started
+## Iniciando o projeto
 
-First, run the development server:
+Primeiro, rode o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
+# ou
 bun dev
 ```
 
