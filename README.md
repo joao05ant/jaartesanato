@@ -1,4 +1,4 @@
-## Primeiro projeto criando utilizando react e nextjs
+## Primeiro projeto criado utilizando react e nextjs
 
 ## Iniciando o projeto
 
